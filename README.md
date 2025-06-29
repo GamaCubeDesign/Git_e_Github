@@ -24,7 +24,7 @@ Este repositório contém material completo para aprender Git e GitHub, incluind
 
 ## 🚀 Como usar este repositório
 
-1. **Leia o conteúdo principal:** [`conteudo.md`](conteudo.md)
+1. **Leia o conteúdo principal:** [`conteudo.md`](conteudo/conteudo.md)
 2. **Pratique os comandos** em um repositório de teste
 3. **Aplique as boas práticas** em seus projetos
 4. **Consulte as referências** para aprofundar conhecimentos
